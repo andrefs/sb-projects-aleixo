@@ -89,31 +89,31 @@
     ],
     "sounds": [
         {
-            "id": "000050",
-            "sourceID": "sMGxD8BroN0",
+            "id": "000095",
+            "version": 1,
+            "sourceID": "NxNAS8N0kB0",
             "paths": {
-                "mp3": "./sounds/000050.mp3",
-                "ogg": "./sounds/000050.ogg"
+                "mp3": "./sounds/000095.mp3",
+                "ogg": "./sounds/000095.ogg"
             },
-            "startsAt": 35,
-            "length": 5,
-            "text": "Disse-me o teu pai, e o teu psiquiatra, e a tua catequista",
-            "dateAdded": "2015-07-08T23:13:46.699Z",
-            "disabled": false,
-            "version": 1
+            "startsAt": 81,
+            "length": 4,
+            "text": "Nunca deixes um estudante Erasmo usar o teu computador",
+            "dateAdded": "2015-07-13T18:54:49.869Z",
+            "disabled": false
         },
         {
-            "id": "000081",
+            "id": "000088",
             "version": 1,
-            "sourceID": "HRhWXu93WFw",
+            "sourceID": "NxNAS8N0kB0",
             "paths": {
-                "mp3": "./sounds/000081.mp3",
-                "ogg": "./sounds/000081.ogg"
+                "mp3": "./sounds/000088.mp3",
+                "ogg": "./sounds/000088.ogg"
             },
-            "startsAt": 102,
-            "length": 1,
-            "text": "Com cautela",
-            "dateAdded": "2015-07-13T18:23:08.210Z",
+            "startsAt": 10,
+            "length": 3,
+            "text": "Mija antes para feridas tuas, ou de pessoas de quem gostes",
+            "dateAdded": "2015-07-13T18:44:58.044Z",
             "disabled": false
         },
         {
@@ -775,16 +775,16 @@
             "version": 1
         },
         {
-            "id": "000051",
+            "id": "000048",
             "sourceID": "sMGxD8BroN0",
             "paths": {
-                "mp3": "./sounds/000051.mp3",
-                "ogg": "./sounds/000051.ogg"
+                "mp3": "./sounds/000048.mp3",
+                "ogg": "./sounds/000048.ogg"
             },
-            "startsAt": 44,
+            "startsAt": 11,
             "length": 1,
-            "text": "Sei lá eu!",
-            "dateAdded": "2015-07-08T23:14:27.003Z",
+            "text": "Ora viva pessoas!",
+            "dateAdded": "2015-07-08T23:11:36.909Z",
             "disabled": false,
             "version": 1
         },
@@ -803,44 +803,16 @@
             "version": 1
         },
         {
-            "id": "000048",
+            "id": "000050",
             "sourceID": "sMGxD8BroN0",
             "paths": {
-                "mp3": "./sounds/000048.mp3",
-                "ogg": "./sounds/000048.ogg"
+                "mp3": "./sounds/000050.mp3",
+                "ogg": "./sounds/000050.ogg"
             },
-            "startsAt": 11,
-            "length": 1,
-            "text": "Ora viva pessoas!",
-            "dateAdded": "2015-07-08T23:11:36.909Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000059",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000059.mp3",
-                "ogg": "./sounds/000059.ogg"
-            },
-            "startsAt": 131,
-            "length": 1,
-            "text": "Que parvoíce!",
-            "dateAdded": "2015-07-09T19:13:32.872Z",
-            "disabled": false,
-            "version": 2
-        },
-        {
-            "id": "000061",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000061.mp3",
-                "ogg": "./sounds/000061.ogg"
-            },
-            "startsAt": 167,
+            "startsAt": 35,
             "length": 5,
-            "text": "Isso é capaz de ser a primeira coisa que dizes em toda a tua vida, que não é 100% ursa",
-            "dateAdded": "2015-07-09T09:42:25.830Z",
+            "text": "Disse-me o teu pai, e o teu psiquiatra, e a tua catequista",
+            "dateAdded": "2015-07-08T23:13:46.699Z",
             "disabled": false,
             "version": 1
         },
@@ -859,212 +831,16 @@
             "version": 1
         },
         {
-            "id": "000073",
+            "id": "000051",
             "sourceID": "sMGxD8BroN0",
             "paths": {
-                "mp3": "./sounds/000073.mp3",
-                "ogg": "./sounds/000073.ogg"
+                "mp3": "./sounds/000051.mp3",
+                "ogg": "./sounds/000051.ogg"
             },
-            "startsAt": 331,
+            "startsAt": 44,
             "length": 1,
-            "text": "Misturada, tudo misturado",
-            "dateAdded": "2015-07-08T23:37:29.439Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000055",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000055.mp3",
-                "ogg": "./sounds/000055.ogg"
-            },
-            "startsAt": 81,
-            "length": 1,
-            "text": "É certinho",
-            "dateAdded": "2015-07-08T23:19:09.995Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000071",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000071.mp3",
-                "ogg": "./sounds/000071.ogg"
-            },
-            "startsAt": 322,
-            "length": 2,
-            "text": "Pá se funciona é de dar",
-            "dateAdded": "2015-07-08T23:35:30.174Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000064",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000064.mp3",
-                "ogg": "./sounds/000064.ogg"
-            },
-            "startsAt": 224,
-            "length": 1,
-            "text": "Isso são nomes de velho!",
-            "dateAdded": "2015-07-08T23:28:39.307Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000056",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000056.mp3",
-                "ogg": "./sounds/000056.ogg"
-            },
-            "startsAt": 105,
-            "length": 1,
-            "text": "É azar é Busto",
-            "dateAdded": "2015-07-08T23:20:20.112Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000057",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000057.mp3",
-                "ogg": "./sounds/000057.ogg"
-            },
-            "startsAt": 106,
-            "length": 2,
-            "text": "Os alemães pensam é em tudo!",
-            "dateAdded": "2015-07-08T23:21:05.527Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000062",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000062.mp3",
-                "ogg": "./sounds/000062.ogg"
-            },
-            "startsAt": 167,
-            "length": 2,
-            "text": "Sou obrigado a dar a mão à palmatória",
-            "dateAdded": "2015-07-08T23:26:29.379Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000060",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000060.mp3",
-                "ogg": "./sounds/000060.ogg"
-            },
-            "startsAt": 137,
-            "length": 2,
-            "text": "Sim, o que é que isso tem ó vira-casacas?",
-            "dateAdded": "2015-07-08T23:23:41.735Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000063",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000063.mp3",
-                "ogg": "./sounds/000063.ogg"
-            },
-            "startsAt": 208,
-            "length": 2,
-            "text": "E olha, eu até te digo mais",
-            "dateAdded": "2015-07-08T23:27:46.076Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000070",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000070.mp3",
-                "ogg": "./sounds/000070.ogg"
-            },
-            "startsAt": 315,
-            "length": 5,
-            "text": "Chanfana ao pequeno almoço, chanfana ao almoço, chanfana ao lanche e korn flakes ao jantar",
-            "dateAdded": "2015-07-08T23:34:44.451Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000065",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000065.mp3",
-                "ogg": "./sounds/000065.ogg"
-            },
-            "startsAt": 230,
-            "length": 2,
-            "text": "Tem algum jeito haver velho chamado Fábio, por exemplo?",
-            "dateAdded": "2015-07-08T23:29:24.556Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000072",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000072.mp3",
-                "ogg": "./sounds/000072.ogg"
-            },
-            "startsAt": 328,
-            "length": 4,
-            "text": "De korn flakes já gosto menos. Prefiro Chocapic, Cheerios, Smack",
-            "dateAdded": "2015-07-08T23:36:46.382Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000069",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000069.mp3",
-                "ogg": "./sounds/000069.ogg"
-            },
-            "startsAt": 298,
-            "length": 1,
-            "text": "Quase impossível isso",
-            "dateAdded": "2015-07-08T23:33:28.551Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000067",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000067.mp3",
-                "ogg": "./sounds/000067.ogg"
-            },
-            "startsAt": 251,
-            "length": 2,
-            "text": "Há alguma necessidade de enganar as pessoas?",
-            "dateAdded": "2015-07-08T23:31:16.582Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000066",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000066.mp3",
-                "ogg": "./sounds/000066.ogg"
-            },
-            "startsAt": 230,
-            "length": 1,
-            "text": "Acho um absurdo!",
-            "dateAdded": "2015-07-08T23:30:16.784Z",
+            "text": "Sei lá eu!",
+            "dateAdded": "2015-07-08T23:14:27.003Z",
             "disabled": false,
             "version": 1
         },
@@ -1083,16 +859,198 @@
             "version": 1
         },
         {
-            "id": "000074",
+            "id": "000053",
             "sourceID": "sMGxD8BroN0",
             "paths": {
-                "mp3": "./sounds/000074.mp3",
-                "ogg": "./sounds/000074.ogg"
+                "mp3": "./sounds/000053.mp3",
+                "ogg": "./sounds/000053.ogg"
             },
-            "startsAt": 348,
+            "startsAt": 55,
+            "length": 4,
+            "text": "Merece respeito zero por parte do mundo mas enfim, peço-vos pachorra",
+            "dateAdded": "2015-07-08T23:17:14.080Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000055",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000055.mp3",
+                "ogg": "./sounds/000055.ogg"
+            },
+            "startsAt": 81,
             "length": 1,
-            "text": "Bem, vou almoçar!",
-            "dateAdded": "2015-07-08T23:38:31.745Z",
+            "text": "É certinho",
+            "dateAdded": "2015-07-08T23:19:09.995Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000056",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000056.mp3",
+                "ogg": "./sounds/000056.ogg"
+            },
+            "startsAt": 105,
+            "length": 1,
+            "text": "É azar é Busto",
+            "dateAdded": "2015-07-08T23:20:20.112Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000060",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000060.mp3",
+                "ogg": "./sounds/000060.ogg"
+            },
+            "startsAt": 137,
+            "length": 2,
+            "text": "Sim, o que é que isso tem ó vira-casacas?",
+            "dateAdded": "2015-07-08T23:23:41.735Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000057",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000057.mp3",
+                "ogg": "./sounds/000057.ogg"
+            },
+            "startsAt": 106,
+            "length": 2,
+            "text": "Os alemães pensam é em tudo!",
+            "dateAdded": "2015-07-08T23:21:05.527Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000063",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000063.mp3",
+                "ogg": "./sounds/000063.ogg"
+            },
+            "startsAt": 208,
+            "length": 2,
+            "text": "E olha, eu até te digo mais",
+            "dateAdded": "2015-07-08T23:27:46.076Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000067",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000067.mp3",
+                "ogg": "./sounds/000067.ogg"
+            },
+            "startsAt": 251,
+            "length": 2,
+            "text": "Há alguma necessidade de enganar as pessoas?",
+            "dateAdded": "2015-07-08T23:31:16.582Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000064",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000064.mp3",
+                "ogg": "./sounds/000064.ogg"
+            },
+            "startsAt": 224,
+            "length": 1,
+            "text": "Isso são nomes de velho!",
+            "dateAdded": "2015-07-08T23:28:39.307Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000062",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000062.mp3",
+                "ogg": "./sounds/000062.ogg"
+            },
+            "startsAt": 167,
+            "length": 2,
+            "text": "Sou obrigado a dar a mão à palmatória",
+            "dateAdded": "2015-07-08T23:26:29.379Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000065",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000065.mp3",
+                "ogg": "./sounds/000065.ogg"
+            },
+            "startsAt": 230,
+            "length": 2,
+            "text": "Tem algum jeito haver velho chamado Fábio, por exemplo?",
+            "dateAdded": "2015-07-08T23:29:24.556Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000066",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000066.mp3",
+                "ogg": "./sounds/000066.ogg"
+            },
+            "startsAt": 230,
+            "length": 1,
+            "text": "Acho um absurdo!",
+            "dateAdded": "2015-07-08T23:30:16.784Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000061",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000061.mp3",
+                "ogg": "./sounds/000061.ogg"
+            },
+            "startsAt": 167,
+            "length": 5,
+            "text": "Isso é capaz de ser a primeira coisa que dizes em toda a tua vida, que não é 100% ursa",
+            "dateAdded": "2015-07-09T09:42:25.830Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000070",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000070.mp3",
+                "ogg": "./sounds/000070.ogg"
+            },
+            "startsAt": 315,
+            "length": 5,
+            "text": "Chanfana ao pequeno almoço, chanfana ao almoço, chanfana ao lanche e korn flakes ao jantar",
+            "dateAdded": "2015-07-08T23:34:44.451Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000069",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000069.mp3",
+                "ogg": "./sounds/000069.ogg"
+            },
+            "startsAt": 298,
+            "length": 1,
+            "text": "Quase impossível isso",
+            "dateAdded": "2015-07-08T23:33:28.551Z",
             "disabled": false,
             "version": 1
         },
@@ -1111,59 +1069,87 @@
             "version": 1
         },
         {
-            "id": "000053",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000053.mp3",
-                "ogg": "./sounds/000053.ogg"
-            },
-            "startsAt": 55,
-            "length": 4,
-            "text": "Merece respeito zero por parte do mundo mas enfim, peço-vos pachorra",
-            "dateAdded": "2015-07-08T23:17:14.080Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000058",
-            "sourceID": "sMGxD8BroN0",
-            "paths": {
-                "mp3": "./sounds/000058.mp3",
-                "ogg": "./sounds/000058.ogg"
-            },
-            "startsAt": 121,
-            "length": 2,
-            "text": "O mundo tá todo maluco ou quê?",
-            "dateAdded": "2015-07-09T09:45:14.906Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000080",
+            "id": "000087",
             "version": 1,
-            "sourceID": "HRhWXu93WFw",
+            "sourceID": "NxNAS8N0kB0",
             "paths": {
-                "mp3": "./sounds/000080.mp3",
-                "ogg": "./sounds/000080.ogg"
+                "mp3": "./sounds/000087.mp3",
+                "ogg": "./sounds/000087.ogg"
             },
-            "startsAt": 86,
-            "length": 6,
-            "text": "Aconselho-te a não referires o meu nome quando andares a resolver esse assunto",
-            "dateAdded": "2015-07-13T18:21:49.236Z",
+            "startsAt": 7,
+            "length": 3,
+            "text": "Nunca mijes para uma ficha de electricidade",
+            "dateAdded": "2015-07-13T18:43:45.110Z",
             "disabled": false
         },
         {
-            "id": "000078",
+            "id": "000086",
             "version": 1,
             "sourceID": "HRhWXu93WFw",
             "paths": {
-                "mp3": "./sounds/000078.mp3",
-                "ogg": "./sounds/000078.ogg"
+                "mp3": "./sounds/000086.mp3",
+                "ogg": "./sounds/000086.ogg"
             },
-            "startsAt": 66,
+            "startsAt": 256,
+            "length": 3,
+            "text": "Não, cocó não. Cocó foi a ti, a ti é que calhou cocó",
+            "dateAdded": "2015-07-13T18:39:28.189Z",
+            "disabled": false
+        },
+        {
+            "id": "000074",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000074.mp3",
+                "ogg": "./sounds/000074.ogg"
+            },
+            "startsAt": 348,
             "length": 1,
-            "text": "Diz lá",
-            "dateAdded": "2015-07-13T18:18:28.734Z",
+            "text": "Bem, vou almoçar!",
+            "dateAdded": "2015-07-08T23:38:31.745Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000073",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000073.mp3",
+                "ogg": "./sounds/000073.ogg"
+            },
+            "startsAt": 331,
+            "length": 1,
+            "text": "Misturada, tudo misturado",
+            "dateAdded": "2015-07-08T23:37:29.439Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000085",
+            "version": 1,
+            "sourceID": "HRhWXu93WFw",
+            "paths": {
+                "mp3": "./sounds/000085.mp3",
+                "ogg": "./sounds/000085.ogg"
+            },
+            "startsAt": 230,
+            "length": 3,
+            "text": "Calhou cocó! Ahaha",
+            "dateAdded": "2015-07-13T18:30:30.375Z",
+            "disabled": false
+        },
+        {
+            "id": "000082",
+            "version": 1,
+            "sourceID": "HRhWXu93WFw",
+            "paths": {
+                "mp3": "./sounds/000082.mp3",
+                "ogg": "./sounds/000082.ogg"
+            },
+            "startsAt": 117,
+            "length": 2,
+            "text": "Então olha este jogo aqui, que eu inventei",
+            "dateAdded": "2015-07-13T18:24:51.187Z",
             "disabled": false
         },
         {
@@ -1195,6 +1181,48 @@
             "disabled": false
         },
         {
+            "id": "000058",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000058.mp3",
+                "ogg": "./sounds/000058.ogg"
+            },
+            "startsAt": 121,
+            "length": 2,
+            "text": "O mundo tá todo maluco ou quê?",
+            "dateAdded": "2015-07-09T09:45:14.906Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000081",
+            "version": 1,
+            "sourceID": "HRhWXu93WFw",
+            "paths": {
+                "mp3": "./sounds/000081.mp3",
+                "ogg": "./sounds/000081.ogg"
+            },
+            "startsAt": 102,
+            "length": 1,
+            "text": "Com cautela",
+            "dateAdded": "2015-07-13T18:23:08.210Z",
+            "disabled": false
+        },
+        {
+            "id": "000080",
+            "version": 1,
+            "sourceID": "HRhWXu93WFw",
+            "paths": {
+                "mp3": "./sounds/000080.mp3",
+                "ogg": "./sounds/000080.ogg"
+            },
+            "startsAt": 86,
+            "length": 6,
+            "text": "Aconselho-te a não referires o meu nome quando andares a resolver esse assunto",
+            "dateAdded": "2015-07-13T18:21:49.236Z",
+            "disabled": false
+        },
+        {
             "id": "000079",
             "version": 1,
             "sourceID": "HRhWXu93WFw",
@@ -1206,6 +1234,20 @@
             "length": 2,
             "text": "E então? Não tenho nada a ver com isso",
             "dateAdded": "2015-07-13T18:20:07.911Z",
+            "disabled": false
+        },
+        {
+            "id": "000078",
+            "version": 1,
+            "sourceID": "HRhWXu93WFw",
+            "paths": {
+                "mp3": "./sounds/000078.mp3",
+                "ogg": "./sounds/000078.ogg"
+            },
+            "startsAt": 66,
+            "length": 1,
+            "text": "Diz lá",
+            "dateAdded": "2015-07-13T18:18:28.734Z",
             "disabled": false
         },
         {
@@ -1223,59 +1265,17 @@
             "disabled": false
         },
         {
-            "id": "000087",
-            "version": 1,
-            "sourceID": "NxNAS8N0kB0",
-            "paths": {
-                "mp3": "./sounds/000087.mp3",
-                "ogg": "./sounds/000087.ogg"
-            },
-            "startsAt": 7,
-            "length": 3,
-            "text": "Nunca mijes para uma ficha de electricidade",
-            "dateAdded": "2015-07-13T18:43:45.110Z",
-            "disabled": false
-        },
-        {
-            "id": "000082",
+            "id": "000084",
             "version": 1,
             "sourceID": "HRhWXu93WFw",
             "paths": {
-                "mp3": "./sounds/000082.mp3",
-                "ogg": "./sounds/000082.ogg"
+                "mp3": "./sounds/000084.mp3",
+                "ogg": "./sounds/000084.ogg"
             },
-            "startsAt": 117,
-            "length": 2,
-            "text": "Então olha este jogo aqui, que eu inventei",
-            "dateAdded": "2015-07-13T18:24:51.187Z",
-            "disabled": false
-        },
-        {
-            "id": "000089",
-            "version": 1,
-            "sourceID": "NxNAS8N0kB0",
-            "paths": {
-                "mp3": "./sounds/000089.mp3",
-                "ogg": "./sounds/000089.ogg"
-            },
-            "startsAt": 23,
-            "length": 2,
-            "text": "Nunca bebas nada no café do Aires",
-            "dateAdded": "2015-07-13T18:46:37.074Z",
-            "disabled": false
-        },
-        {
-            "id": "000088",
-            "version": 1,
-            "sourceID": "NxNAS8N0kB0",
-            "paths": {
-                "mp3": "./sounds/000088.mp3",
-                "ogg": "./sounds/000088.ogg"
-            },
-            "startsAt": 10,
-            "length": 3,
-            "text": "Mija antes para feridas tuas, ou de pessoas de quem gostes",
-            "dateAdded": "2015-07-13T18:44:58.044Z",
+            "startsAt": 198,
+            "length": 1,
+            "text": "Cocó de animal doméstico",
+            "dateAdded": "2015-07-13T18:28:31.457Z",
             "disabled": false
         },
         {
@@ -1293,73 +1293,59 @@
             "disabled": false
         },
         {
-            "id": "000085",
-            "version": 1,
-            "sourceID": "HRhWXu93WFw",
+            "id": "000059",
+            "sourceID": "sMGxD8BroN0",
             "paths": {
-                "mp3": "./sounds/000085.mp3",
-                "ogg": "./sounds/000085.ogg"
+                "mp3": "./sounds/000059.mp3",
+                "ogg": "./sounds/000059.ogg"
             },
-            "startsAt": 230,
-            "length": 3,
-            "text": "Calhou cocó! Ahaha",
-            "dateAdded": "2015-07-13T18:30:30.375Z",
-            "disabled": false
-        },
-        {
-            "id": "000084",
-            "version": 1,
-            "sourceID": "HRhWXu93WFw",
-            "paths": {
-                "mp3": "./sounds/000084.mp3",
-                "ogg": "./sounds/000084.ogg"
-            },
-            "startsAt": 198,
+            "startsAt": 131,
             "length": 1,
-            "text": "Cocó de animal doméstico",
-            "dateAdded": "2015-07-13T18:28:31.457Z",
-            "disabled": false
+            "text": "Que parvoíce!",
+            "dateAdded": "2015-07-09T19:13:32.872Z",
+            "disabled": false,
+            "version": 2
         },
         {
-            "id": "000086",
-            "version": 1,
-            "sourceID": "HRhWXu93WFw",
+            "id": "000071",
+            "sourceID": "sMGxD8BroN0",
             "paths": {
-                "mp3": "./sounds/000086.mp3",
-                "ogg": "./sounds/000086.ogg"
+                "mp3": "./sounds/000071.mp3",
+                "ogg": "./sounds/000071.ogg"
             },
-            "startsAt": 256,
+            "startsAt": 322,
+            "length": 2,
+            "text": "Pá se funciona é de dar",
+            "dateAdded": "2015-07-08T23:35:30.174Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000072",
+            "sourceID": "sMGxD8BroN0",
+            "paths": {
+                "mp3": "./sounds/000072.mp3",
+                "ogg": "./sounds/000072.ogg"
+            },
+            "startsAt": 328,
+            "length": 4,
+            "text": "De korn flakes já gosto menos. Prefiro Chocapic, Cheerios, Smack",
+            "dateAdded": "2015-07-08T23:36:46.382Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000109",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000109.mp3",
+                "ogg": "./sounds/000109.ogg"
+            },
+            "startsAt": 97,
             "length": 3,
-            "text": "Não, cocó não. Cocó foi a ti, a ti é que calhou cocó",
-            "dateAdded": "2015-07-13T18:39:28.189Z",
-            "disabled": false
-        },
-        {
-            "id": "000090",
-            "version": 1,
-            "sourceID": "NxNAS8N0kB0",
-            "paths": {
-                "mp3": "./sounds/000090.mp3",
-                "ogg": "./sounds/000090.ogg"
-            },
-            "startsAt": 28,
-            "length": 2,
-            "text": "E ele mexia todas as bebidas com a pila",
-            "dateAdded": "2015-07-13T18:47:41.565Z",
-            "disabled": false
-        },
-        {
-            "id": "000091",
-            "version": 1,
-            "sourceID": "NxNAS8N0kB0",
-            "paths": {
-                "mp3": "./sounds/000091.mp3",
-                "ogg": "./sounds/000091.ogg"
-            },
-            "startsAt": 37,
-            "length": 2,
-            "text": "Nunca durmas todo nu",
-            "dateAdded": "2015-07-13T18:48:48.672Z",
+            "text": "Olha lá, vê lá o que é que eu tenho aqui na barriga mas é",
+            "dateAdded": "2015-07-13T19:20:17.792Z",
             "disabled": false
         },
         {
@@ -1377,17 +1363,59 @@
             "disabled": false
         },
         {
-            "id": "000093",
+            "id": "000090",
             "version": 1,
             "sourceID": "NxNAS8N0kB0",
             "paths": {
-                "mp3": "./sounds/000093.mp3",
-                "ogg": "./sounds/000093.ogg"
+                "mp3": "./sounds/000090.mp3",
+                "ogg": "./sounds/000090.ogg"
             },
-            "startsAt": 58,
+            "startsAt": 28,
             "length": 2,
-            "text": "Nunca comas cornetos no café do Aires",
-            "dateAdded": "2015-07-13T18:51:58.491Z",
+            "text": "E ele mexia todas as bebidas com a pila",
+            "dateAdded": "2015-07-13T18:47:41.565Z",
+            "disabled": false
+        },
+        {
+            "id": "000089",
+            "version": 1,
+            "sourceID": "NxNAS8N0kB0",
+            "paths": {
+                "mp3": "./sounds/000089.mp3",
+                "ogg": "./sounds/000089.ogg"
+            },
+            "startsAt": 23,
+            "length": 2,
+            "text": "Nunca bebas nada no café do Aires",
+            "dateAdded": "2015-07-13T18:46:37.074Z",
+            "disabled": false
+        },
+        {
+            "id": "000091",
+            "version": 1,
+            "sourceID": "NxNAS8N0kB0",
+            "paths": {
+                "mp3": "./sounds/000091.mp3",
+                "ogg": "./sounds/000091.ogg"
+            },
+            "startsAt": 37,
+            "length": 2,
+            "text": "Nunca durmas todo nu",
+            "dateAdded": "2015-07-13T18:48:48.672Z",
+            "disabled": false
+        },
+        {
+            "id": "000107",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000107.mp3",
+                "ogg": "./sounds/000107.ogg"
+            },
+            "startsAt": 86,
+            "length": 1,
+            "text": "Igual à minha?",
+            "dateAdded": "2015-07-13T19:14:17.492Z",
             "disabled": false
         },
         {
@@ -1405,31 +1433,31 @@
             "disabled": false
         },
         {
-            "id": "000095",
+            "id": "000093",
             "version": 1,
             "sourceID": "NxNAS8N0kB0",
             "paths": {
-                "mp3": "./sounds/000095.mp3",
-                "ogg": "./sounds/000095.ogg"
+                "mp3": "./sounds/000093.mp3",
+                "ogg": "./sounds/000093.ogg"
             },
-            "startsAt": 81,
-            "length": 4,
-            "text": "Nunca deixes um estudante Erasmo usar o teu computador",
-            "dateAdded": "2015-07-13T18:54:49.869Z",
+            "startsAt": 58,
+            "length": 2,
+            "text": "Nunca comas cornetos no café do Aires",
+            "dateAdded": "2015-07-13T18:51:58.491Z",
             "disabled": false
         },
         {
-            "id": "000096",
+            "id": "000119",
             "version": 1,
-            "sourceID": "NxNAS8N0kB0",
+            "sourceID": "COl3jP9E0_o",
             "paths": {
-                "mp3": "./sounds/000096.mp3",
-                "ogg": "./sounds/000096.ogg"
+                "mp3": "./sounds/000119.mp3",
+                "ogg": "./sounds/000119.ogg"
             },
-            "startsAt": 113,
-            "length": 2,
-            "text": "Nunca mintas a um polícia!",
-            "dateAdded": "2015-07-13T18:56:34.840Z",
+            "startsAt": 203,
+            "length": 3,
+            "text": "Então, não tens subsídios e assim? É só ordenado base",
+            "dateAdded": "2015-07-13T19:28:20.135Z",
             "disabled": false
         },
         {
@@ -1447,6 +1475,132 @@
             "disabled": false
         },
         {
+            "id": "000096",
+            "version": 1,
+            "sourceID": "NxNAS8N0kB0",
+            "paths": {
+                "mp3": "./sounds/000096.mp3",
+                "ogg": "./sounds/000096.ogg"
+            },
+            "startsAt": 113,
+            "length": 2,
+            "text": "Nunca mintas a um polícia!",
+            "dateAdded": "2015-07-13T18:56:34.840Z",
+            "disabled": false
+        },
+        {
+            "id": "000117",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000117.mp3",
+                "ogg": "./sounds/000117.ogg"
+            },
+            "startsAt": 180,
+            "length": 3,
+            "text": "Feliz, quem é que anda feliz? Tu é que andas feliz?",
+            "dateAdded": "2015-07-13T19:26:41.784Z",
+            "disabled": false
+        },
+        {
+            "id": "000120",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000120.mp3",
+                "ogg": "./sounds/000120.ogg"
+            },
+            "startsAt": 209,
+            "length": 2,
+            "text": "Mas tens ajudas de custo ou lá o que é isso",
+            "dateAdded": "2015-07-13T19:28:59.992Z",
+            "disabled": false
+        },
+        {
+            "id": "000111",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000111.mp3",
+                "ogg": "./sounds/000111.ogg"
+            },
+            "startsAt": 107,
+            "length": 1,
+            "text": "E tenho enjoos",
+            "dateAdded": "2015-07-13T19:21:26.426Z",
+            "disabled": false
+        },
+        {
+            "id": "000110",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000110.mp3",
+                "ogg": "./sounds/000110.ogg"
+            },
+            "startsAt": 103,
+            "length": 1,
+            "text": "Ando com uma azia!",
+            "dateAdded": "2015-07-13T19:20:54.095Z",
+            "disabled": false
+        },
+        {
+            "id": "000102",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000102.mp3",
+                "ogg": "./sounds/000102.ogg"
+            },
+            "startsAt": 47,
+            "length": 1,
+            "text": "Então é disso",
+            "dateAdded": "2015-07-13T19:05:11.451Z",
+            "disabled": false
+        },
+        {
+            "id": "000108",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000108.mp3",
+                "ogg": "./sounds/000108.ogg"
+            },
+            "startsAt": 89,
+            "length": 1,
+            "text": "Tenho",
+            "dateAdded": "2015-07-13T19:18:04.016Z",
+            "disabled": false
+        },
+        {
+            "id": "000104",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000104.mp3",
+                "ogg": "./sounds/000104.ogg"
+            },
+            "startsAt": 55,
+            "length": 2,
+            "text": "É falta de oxigénio na cabeça",
+            "dateAdded": "2015-07-13T19:08:37.914Z",
+            "disabled": false
+        },
+        {
+            "id": "000101",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000101.mp3",
+                "ogg": "./sounds/000101.ogg"
+            },
+            "startsAt": 40,
+            "length": 2,
+            "text": "Nem se consegue cá respirar",
+            "dateAdded": "2015-07-13T19:04:09.555Z",
+            "disabled": false
+        },
+        {
             "id": "000098",
             "version": 1,
             "sourceID": "NxNAS8N0kB0",
@@ -1458,6 +1612,258 @@
             "length": 3,
             "text": "Ou então vais pá cadeira! Para o pé dos drogados",
             "dateAdded": "2015-07-13T18:59:19.001Z",
+            "disabled": false
+        },
+        {
+            "id": "000103",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000103.mp3",
+                "ogg": "./sounds/000103.ogg"
+            },
+            "startsAt": 53,
+            "length": 2,
+            "text": "Qualquer dia desmaias aqui e nem sabes o que é que foi",
+            "dateAdded": "2015-07-13T19:07:16.759Z",
+            "disabled": false
+        },
+        {
+            "id": "000100",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000100.mp3",
+                "ogg": "./sounds/000100.ogg"
+            },
+            "startsAt": 37,
+            "length": 1,
+            "text": "Epá isto é muito abafado",
+            "dateAdded": "2015-07-13T19:03:35.363Z",
+            "disabled": false
+        },
+        {
+            "id": "000105",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000105.mp3",
+                "ogg": "./sounds/000105.ogg"
+            },
+            "startsAt": 70,
+            "length": 2,
+            "text": "Calça meia grossa Ribeiro!",
+            "dateAdded": "2015-07-13T19:09:31.328Z",
+            "disabled": false
+        },
+        {
+            "id": "000106",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000106.mp3",
+                "ogg": "./sounds/000106.ogg"
+            },
+            "startsAt": 79,
+            "length": 1,
+            "text": "Usa uma calçadeira!",
+            "dateAdded": "2015-07-13T19:10:35.713Z",
+            "disabled": false
+        },
+        {
+            "id": "000099",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000099.mp3",
+                "ogg": "./sounds/000099.ogg"
+            },
+            "startsAt": 30,
+            "length": 1,
+            "text": "Isto é que é o teu escritório?",
+            "dateAdded": "2015-07-13T19:02:35.109Z",
+            "disabled": false
+        },
+        {
+            "id": "000115",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000115.mp3",
+                "ogg": "./sounds/000115.ogg"
+            },
+            "startsAt": 159,
+            "length": 3,
+            "text": "Ainda tenho o auto-rádio avariado por causa de teres lá metido um rissol",
+            "dateAdded": "2015-07-13T19:25:01.083Z",
+            "disabled": false
+        },
+        {
+            "id": "000112",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000112.mp3",
+                "ogg": "./sounds/000112.ogg"
+            },
+            "startsAt": 111,
+            "length": 2,
+            "text": "Mais num sei, é só estas",
+            "dateAdded": "2015-07-13T19:22:15.142Z",
+            "disabled": false
+        },
+        {
+            "id": "000113",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000113.mp3",
+                "ogg": "./sounds/000113.ogg"
+            },
+            "startsAt": 117,
+            "length": 2,
+            "text": "Epá ó Ribeiro, não há um remédio ou assim?",
+            "dateAdded": "2015-07-13T19:23:23.468Z",
+            "disabled": false
+        },
+        {
+            "id": "000114",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000114.mp3",
+                "ogg": "./sounds/000114.ogg"
+            },
+            "startsAt": 133,
+            "length": 2,
+            "text": "Olha mas eu não quero nada disso",
+            "dateAdded": "2015-07-13T19:24:09.352Z",
+            "disabled": false
+        },
+        {
+            "id": "000116",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000116.mp3",
+                "ogg": "./sounds/000116.ogg"
+            },
+            "startsAt": 175,
+            "length": 2,
+            "text": "Mas deve ser coincidência, pronto",
+            "dateAdded": "2015-07-13T19:25:54.760Z",
+            "disabled": false
+        },
+        {
+            "id": "000118",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000118.mp3",
+                "ogg": "./sounds/000118.ogg"
+            },
+            "startsAt": 195,
+            "length": 2,
+            "text": "Ai agora a culpa é minha queres ver?",
+            "dateAdded": "2015-07-13T19:27:40.660Z",
+            "disabled": false
+        },
+        {
+            "id": "000121",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000121.mp3",
+                "ogg": "./sounds/000121.ogg"
+            },
+            "startsAt": 212,
+            "length": 1,
+            "text": "Não penses que eu sou burro",
+            "dateAdded": "2015-07-13T19:30:06.827Z",
+            "disabled": false
+        },
+        {
+            "id": "000122",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000122.mp3",
+                "ogg": "./sounds/000122.ogg"
+            },
+            "startsAt": 214,
+            "length": 3,
+            "text": "Olha, eu nem trouxe a carteira, faz como entenderes",
+            "dateAdded": "2015-07-13T19:31:44.301Z",
+            "disabled": false
+        },
+        {
+            "id": "000123",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000123.mp3",
+                "ogg": "./sounds/000123.ogg"
+            },
+            "startsAt": 224,
+            "length": 2,
+            "text": "E tu metes isso na contabilidade de uma velha qualquer",
+            "dateAdded": "2015-07-13T19:32:41.033Z",
+            "disabled": false
+        },
+        {
+            "id": "000124",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000124.mp3",
+                "ogg": "./sounds/000124.ogg"
+            },
+            "startsAt": 229,
+            "length": 2,
+            "text": "Não te faças de parvo, anda",
+            "dateAdded": "2015-07-13T19:33:15.869Z",
+            "disabled": false
+        },
+        {
+            "id": "000125",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000125.mp3",
+                "ogg": "./sounds/000125.ogg"
+            },
+            "startsAt": 231,
+            "length": 2,
+            "text": "Há velhas que tiram às 50 ecografias por semana",
+            "dateAdded": "2015-07-13T19:34:07.904Z",
+            "disabled": false
+        },
+        {
+            "id": "000126",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000126.mp3",
+                "ogg": "./sounds/000126.ogg"
+            },
+            "startsAt": 275,
+            "length": 1,
+            "text": "Vá eu fico",
+            "dateAdded": "2015-07-13T19:35:00.816Z",
+            "disabled": false
+        },
+        {
+            "id": "000127",
+            "version": 1,
+            "sourceID": "COl3jP9E0_o",
+            "paths": {
+                "mp3": "./sounds/000127.mp3",
+                "ogg": "./sounds/000127.ogg"
+            },
+            "startsAt": 275,
+            "length": 1,
+            "text": "Mas ficas-me a dever uma",
+            "dateAdded": "2015-07-13T19:35:45.893Z",
             "disabled": false
         }
     ]
