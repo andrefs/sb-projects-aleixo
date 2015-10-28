@@ -14,7 +14,7 @@ exports.config = {
         publisher: 'botoes.co'
     },
     partials: {
-        footer: '<a href="mailto:andrefs@andrefs.com">andré santos, david oliveira, joão ferreira <i class="fa fa-envelope"></i></a> , baseado em <a href="http://www.facebook.com/brunoaleixo">bruno aleixo<i class="fa fa-external-link"></i></a>'
+        footer: '<a href="mailto:andrefs@andrefs.com">andré santos, david oliveira, joão ferreira <i class="fa fa-envelope"></i></a> , baseado em <a href="http://www.facebook.com/brunoaleixo">bruno aleixo <i class="fa fa-external-link"></i></a>'
     },
     manifest : {
         version: 'v1',
