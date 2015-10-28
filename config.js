@@ -28,8 +28,14 @@ exports.config = {
     soundEditCommand  : 'audacity',
     toplinks: [
         {
-            link: 'http://aleixo.botoes.co',
-            title: 'Aleixo'
+            link: 'http://bussaco.botoes.co',
+            title: 'Bussaco'
+        },{
+            link: 'http://renato.botoes.co',
+            title: 'Renato'
+        },{
+            link: 'http://senhorpe.botoes.co',
+            title: 'Senhor Pé'
         },{
             link: 'http://beatriz.botoes.co',
             title: 'Beatriz'
